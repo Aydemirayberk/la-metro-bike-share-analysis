@@ -1,0 +1,430 @@
+Kiosk ID,Kiosk Name,Region ,Status
+3000,Virtual Station,N/A,Active
+3005,7th & Flower,DTLA,Active
+3006,Olive & 8th,DTLA,Active
+3007,5th & Grand,DTLA,Active
+3008,Figueroa & 9th,DTLA,Active
+3010,11th & Maple,DTLA,Active
+3011,Figueroa & Pico,DTLA,Active
+3013,Anaheim & Avalon,Port of LA,Inactive
+3014,Union Station West Portal,DTLA,Active
+3016,Los Angeles & Temple,DTLA,Active
+3018,Grand & Olympic,DTLA,Active
+3019,12th & Hill,DTLA,Active
+3020,Hill & Washington,DTLA,Active
+3021,3rd & Rose,DTLA,Inactive
+3022,3rd & Santa Fe,DTLA,Active
+3023,1st & Judge John Aiso,DTLA,Inactive
+3024,Hope & 1st,DTLA,Active
+3025,Grand & Washington,DTLA,Active
+3026,Figueroa & Cesar Chavez,DTLA,Active
+3027,Spring & 3rd,DTLA,Active
+3028,Grand & Temple,DTLA,Inactive
+3029,Main & 4th,DTLA,Inactive
+3030,Main & 1st,DTLA,Active
+3031,7th & Spring,DTLA,Inactive
+3032,Hope & 6th,DTLA,Active
+3033,Main & 9th,DTLA,Active
+3034,Hope & 11th,DTLA,Active
+3035,Figueroa & 8th,DTLA,Active
+3036,Willow St & Mateo St,DTLA,Active
+3037,Imperial & 7th,DTLA,Active
+3038,Main & 5th,DTLA,Inactive
+3040,Wilshire & Witmer,DTLA,Active
+3042,1st & Central,DTLA,Active
+3045,18th & San Pedro,DTLA,Active
+3046,2nd & Hill,DTLA,Active
+3047,Pico & Flower,DTLA,Active
+3048,5th & Hewitt,DTLA,Active
+3049,2nd & Figueroa,DTLA,Active
+3051,7th & Broadway,DTLA,Inactive
+3052,7th & Bixel,DTLA,Active
+3054,Factory Place & Alameda,DTLA,Active
+3055,7th & Main,DTLA,Inactive
+3056,Grand & 14th,DTLA,Active
+3057,18th & Figueroa,DTLA,Inactive
+3058,Industrial St & Mateo St,DTLA,Active
+3059,11th & Santee,DTLA,Inactive
+3060,Pico & Maple,DTLA,Inactive
+3062,3rd & San Pedro,DTLA,Active
+3063,Pershing Square,DTLA,Active
+3064,Grand & 8th,DTLA,Active
+3065,New High & Ord,DTLA,Active
+3066,Spring & College,DTLA,Active
+3067,Main & 6th,DTLA,Inactive
+3068,Grand & 3rd,DTLA,Active
+3069,Broadway & 3rd,DTLA,Active
+3074,Hope & Olympic,DTLA,Active
+3075,Broadway & 9th,DTLA,Active
+3076,9th & Los Angeles,DTLA,Active
+3077,8th & Wall,DTLA,Active
+3078,Hill & College,DTLA,Active
+3079,Temple & Vignes,DTLA,Active
+3080,San Julian & 12th,DTLA,Inactive
+3081,Stanford & 12th,DTLA,Active
+3082,Traction & Rose,DTLA,Active
+4125,Banning's Landing,Port of LA,Inactive
+4126,Cabrillo Beach,Port of LA,Inactive
+4127,Catalina Express,Port of LA,Inactive
+4129,Crafted 22nd St Park,Port of LA,Inactive
+4130,DoubleTree Hotel,Port of LA,Inactive
+4131,Downtown Harbor,Port of LA,Inactive
+4132,Fanfare Fountain,Port of LA,Inactive
+4133,Ports O'Call,Port of LA,Inactive
+4134,USS IOWA,Port of LA,Inactive
+4135,Waterfront Park (East),Port of LA,Inactive
+4136,Waterfront Park (West),Port of LA,Inactive
+4138,Old Pasadena,Pasadena,Inactive
+4142,Pasadena Convention Center,Pasadena,Inactive
+4144,Cordova & Lake,Pasadena,Inactive
+4146,City Hall West,Pasadena,Inactive
+4147,Fair Oaks & Mercantile Alley,Pasadena,Inactive
+4148,Pasadena Central Library,Pasadena,Inactive
+4149,Arroyo Parkway & Bellevue,Pasadena,Inactive
+4150,Villa Parke,Pasadena,Inactive
+4151,Los Robles & Cordova,Pasadena,Inactive
+4152,Pasadena Museum,Pasadena,Inactive
+4153,Rose Bowl,Pasadena,Inactive
+4154,Fair Oaks & Peoria,Pasadena,Inactive
+4155,Lake & Union,Pasadena,Inactive
+4156,Madison & Walnut,Pasadena,Inactive
+4157,Lake & Del Mar,Pasadena,Inactive
+4158,Lake & California,Pasadena,Inactive
+4159,Pasadena City College,Pasadena,Inactive
+4160,Fillmore Station,Pasadena,Inactive
+4162,Memorial Park Station,Pasadena,Inactive
+4163,Lake & Locust,Pasadena,Inactive
+4165,Del Mar Station,Pasadena,Inactive
+4166,Colorado & Hill,Pasadena,Inactive
+4167,Pasadena & Dayton,Pasadena,Inactive
+4169,Oakland & Union,Pasadena,Inactive
+4170,Lake & Merrett,Pasadena,Inactive
+4174,Fair Oaks & Hammond,Pasadena,Inactive
+4176,Caltech East,Pasadena,Inactive
+4177,Madison & Colorado,Pasadena,Inactive
+4180,Caltech West,Pasadena,Inactive
+4181,Oak Knoll & Colorado,Pasadena,Inactive
+4183,Catalina & Colorado,Pasadena,Inactive
+4194,Union Station East,DTLA,Inactive
+4202,Abbot Kinney & Cadiz,Westside,Active
+4204,Washington & Abbot Kinney,Westside,Active
+4205,Venice & Lincoln,Westside,Active
+4206,California & Lincoln,Westside,Active
+4207,Rose & 7th,Westside,Active
+4208,Rose & Rennie,Westside,Active
+4209,Rose & Main,Westside,Active
+4210,Ocean Front Walk & North Venice,Westside,Active
+4211,Pacific & North Venice,Westside,Active
+4212,Windward & Main,Westside,Active
+4213,7th & Westminster,Westside,Active
+4214,Ocean Front Walk & Navy,Westside,Active
+4215,Downtown Santa Monica E Line Station,Westside,Active
+4216,17th St / SMC E Line Station,Westside,Active
+4217,Broadway & 11th,DTLA,Active
+4220,Park & Echo Park,DTLA,Active
+4227,Grand / LATTC,DTLA,Active
+4245,University & Hoover,DTLA,Active
+4246,32nd & Figueroa,DTLA,Active
+4247,25th & Vermont,DTLA,Active
+4248,29th & Ellendale,DTLA,Active
+4249,Figueroa & McCarthy Way,DTLA,Active
+4250,Severance & Adams,DTLA,Active
+4254,Hoover & 29th,DTLA,Active
+4255,Seabluff & Runway,Westside,Active
+4266,28th & Figueroa,DTLA,Active
+4267,28th & University,DTLA,Active
+4273,Hoover & 32nd,DTLA,Active
+4275,Expo Park/LAFC,DTLA,Active
+4276,Mariachi Plaza,DTLA,Inactive
+4285,Metro Bike Share Free Bikes,Free Bikes,Inactive
+4286,Metro Bike Share Out of Service Area Smart Bike,Free Bikes,Inactive
+4293,Westlake & 3rd,DTLA,Active
+4300,Union & Olympic,DTLA,Active
+4301,Maubert & Vermont,DTLA,Active
+4302,Vermont Pl & Vermont,DTLA,Active
+4303,Sunset & Virgil,DTLA,Active
+4304,Shatto Pl & Wilshire,DTLA,Active
+4306,8th & Vermont,DTLA,Active
+4311,7th & Berendo,DTLA,Active
+4312,4th & Vermont,DTLA,Active
+4313,Westlake/Macarthur Park Station,DTLA,Active
+4314,7th & Park View,DTLA,Active
+4315,Union & 7th,DTLA,Active
+4321,Expo & Bundy,Westside,Inactive
+4322,Venice & Inglewood,Westside,Inactive
+4323,Venice & Beethoven,Westside,Inactive
+4324,Palms & Motor,Westside,Inactive
+4325,Venice & Clarington,Westside,Inactive
+4328,Sepulveda & Palms,Westside,Inactive
+4329,Palms & National,Westside,Inactive
+4330,Bagley & Venice,Westside,Inactive
+4331,Venice & Colonial,Westside,Inactive
+4332,National & Motor,Westside,Inactive
+4333,Venice & Walgrove,Westside,Inactive
+4334,Venice & Motor,Westside,Inactive
+4335,Venice & Hughes,Westside,Inactive
+4336,Barrington & National,Westside,Inactive
+4337,Inglewood & Braddock,Westside,Inactive
+4338,Sepulveda & Venice,Westside,Inactive
+4339,Westwood & National,Westside,Inactive
+4340,17th St / SMC Expo Line Station,Westside,Inactive
+4341,7th & Westminster,Westside,Inactive
+4342,Abbot Kinney & Cadiz,Westside,Inactive
+4343,California & Lincoln,Westside,Inactive
+4344,Downtown Santa Monica Expo Line Station,Westside,Inactive
+4345,Ocean Front Walk & Navy,Westside,Inactive
+4346,Ocean Front Walk & North Venice,Westside,Inactive
+4347,Pacific & North Venice,Westside,Inactive
+4348,Rose & 7th,Westside,Inactive
+4349,Rose & Main,Westside,Inactive
+4350,Rose & Rennie,Westside,Inactive
+4351,Venice & Lincoln,Westside,Inactive
+4352,Washington & Abbot Kinney,Westside,Inactive
+4353,Windward & Main,Westside,Inactive
+4354,Venice & Glendon,Westside,Inactive
+4356,CicLAvia Downtown Culver City Hub,Westside,Inactive
+4357,CicLAvia Palms Hub,Westside,Inactive
+4369,Pop-up Station at CicLAvia Culver City Hub,Westside,Inactive
+4372,Public Bike Rack: Culver City Expo Line,Westside,Inactive
+4373,Public Bike Rack: Westwood/Rancho Park Expo Line North,Westside,Inactive
+4374,Public Bike Rack: Westwood/Rancho Park Expo Line South,Westside,Inactive
+4378,Palms & Kelton,Westside,Inactive
+4379,Sepulveda & Charnock,Westside,Inactive
+4380,Centinela & Lucile,Westside,Inactive
+4381,Sepulveda & Lucerne,Westside,Inactive
+4382,Westwood & National,Westside,Inactive
+4383,McLaughlin & Venice,Westside,Inactive
+4384,Inglewood & Ballona,Westside,Inactive
+4385,Public Bike Rack: Westwood/Rancho Park Expo Line,Westside,Inactive
+4387,Row DTLA,DTLA,Active
+4389,Expo/Sepulveda Expo Line Station,Westside,Inactive
+4390,Kenmore & 3rd,DTLA,Active
+4393,Durango & Venice,Westside,Inactive
+4394,Westlawn & Beatrice,Westside,Inactive
+4395,Del Rey Day Pop-up,Westside,Inactive
+4396,Sepulveda & National,Westside,Inactive
+4397,Mar Vista Rec Center,Westside,Inactive
+4400,Newton & Central,DTLA,Inactive
+4401,Vermont & Beverly,DTLA,Active
+4402,Pop Hollywood Ciclavia Walk of Fame Hub,DTLA,Inactive
+4403,Ciclavia Watts Hub,DTLA,Inactive
+4404,Albany & Olympic,DTLA,Active
+4405,Berendo & Olympic,DTLA,Active
+4406,Normandie & Hollywood,DTLA,Active
+4407,Pop Hollywood Ciclavia Barnsdall Art Park Hub,DTLA,Inactive
+4408,Venice & Sawtelle,Westside,Inactive
+4409,Maxella & Del Ray,Westside,Inactive
+4410,Kenmore & 6th,DTLA,Active
+4413,Lankershim & Vineland,North Hollywood,Inactive
+4414,Chandler & Colfax,North Hollywood,Inactive
+4415,Chandler & Laurel Canyon,North Hollywood,Inactive
+4416,Riverside & Colfax,North Hollywood,Inactive
+4417,Magnolia & Cartwright,North Hollywood,Inactive
+4418,Lankershim & Moorpark,North Hollywood,Inactive
+4419,Magnolia & Clybourn,North Hollywood,Inactive
+4420,North Hollywood Station,North Hollywood,Inactive
+4422,Riverside & Cahuenga,North Hollywood,Inactive
+4425,Mariota & Riverside,North Hollywood,Inactive
+4426,Tujunga & Moorpark,North Hollywood,Inactive
+4427,Vineland & Otsego,North Hollywood,Inactive
+4428,Lankershim & Hesby,North Hollywood,Inactive
+4429,Chandler & Cahuenga,North Hollywood,Inactive
+4430,Vineland & Burbank,North Hollywood,Inactive
+4431,Lankershim & Califa,North Hollywood,Inactive
+4432,Public Bike Rack: Universal City/Studio City Red Line Station,North Hollywood,Inactive
+4435,Centre & 6th,Port of LA,Inactive
+4436,Vermont & Franklin,DTLA,Active
+4437,Franklin & Hillhurst,DTLA,Active
+4438,Hoover & Fountain,DTLA,Inactive
+4439,Santa Monica & Virgil,DTLA,Active
+4440,Wilshire & Alexandria,DTLA,Active
+4441,University & 30th,DTLA,Active
+4442,Normandie & Sunset,DTLA,Active
+4443,Figueroa & Jefferson,DTLA,Active
+4444,Wilshire & Hobart,DTLA,Active
+4445,Sunset & Douglas,DTLA,Active
+4446,James M. Wood & Alvarado,DTLA,Active
+4447,Rampart & Wilshire,DTLA,Active
+4448,23rd St & Flower,DTLA,Active
+4449,12th & Valencia,DTLA,Active
+4450,Virgil & 6th,DTLA,Active
+4451,Melbourne & Vermont,DTLA,Active
+4452,Hillhurst & Kingswell,DTLA,Active
+4453,Lucile & Hoover,DTLA,Active
+4454,Vermont & Exposition,DTLA,Active
+4455,Rowena & Hyperion,DTLA,Active
+4456,Ardmore & Olympic,DTLA,Active
+4457,Hollywood & Rodney,DTLA,Active
+4458,Culver & Centinela,Westside,Inactive
+4459,Culver & McConnell,Westside,Inactive
+4460,Culver & Inglewood,Westside,Inactive
+4461,Rose & Overland,Westside,Inactive
+4462,Overland & Charnock,Westside,Inactive
+4463,Tujunga & Hatteras,North Hollywood,Inactive
+4469,Playa Vista Library,Westside,Inactive
+4470,McConnell & Runway,Westside,Inactive
+4472,Santa Monica & Sunset,DTLA,Active
+4473,Vendome & Beverly,DTLA,Active
+4474,Ambrose & Hillhurst,DTLA,Active
+4475,San Pedro & Winston,DTLA,Active
+4476,Sunset & Silver Lake,DTLA,Active
+4477,Yucca & Argyle,DTLA,Active
+4478,Tracy & Hyperion,DTLA,Active
+4479,Ellendale Pl & Adams,DTLA,Active
+4480,Figueroa Plaza,DTLA,Inactive
+4482,Wilcox & Fountain,DTLA,Active
+4483,Glendale & Silver Lake,DTLA,Active
+4484,Campus Center Drive,Westside,Inactive
+4486,Vista Hermosa Park,DTLA,Active
+4487,Broxton & Weyburn,Westside,Active
+4490,Figueroa & 4th,DTLA,Active
+4491,Main & Winston,DTLA,Active
+4492,Westwood/Rancho Park E Line Station,Westside,Active
+4493,Sunset Triangle Plaza,DTLA,Active
+4494,Laveta Terrace & Sunset,DTLA,Active
+4496,Concert Park,Westside,Inactive
+4497,Riverside & Laurel Canyon,North Hollywood,Inactive
+4498,Vineland & Oxnard,North Hollywood,Inactive
+4499,Victory & Colfax,North Hollywood,Inactive
+4500,Burbank & Cahuenga,North Hollywood,Inactive
+4502,North Hollywood Plaza,North Hollywood,Inactive
+4503,Stanford & Washington,Westside,Inactive
+4504,Vista Del Mar & Culver,Westside,Inactive
+4505,Glen Alla Park,Westside,Inactive
+4508,Ciclavia South Central Hub,DTLA,Inactive
+4509,Western & Hollywood,DTLA,Active
+4510,Mohawk Bend,DTLA,Active
+4511,Union Station East Portal,DTLA,Active
+4512,Figueroa & 11th,DTLA,Active
+4513,Edgemont & Melrose,DTLA,Inactive
+4515,Mississippi & Sawtelle,Westside,Inactive
+4516,7th & Hill,DTLA,Inactive
+4517,Highland & Hollywood,DTLA,Active
+4518,Normandie & 8th,DTLA,Active
+4521,Inglewood & Ballona,Westside,Active
+4523,Western & 3rd,DTLA,Active
+4524,Wilshire & Normandie,DTLA,Active
+4525,Hawthorn & Orange,DTLA,Active
+4526,Franklin & Fuller,DTLA,Active
+4527,McCadden & Hollywood,DTLA,Active
+4528,Glendon & Kinross,DTLA,Active
+4529,Whitley & Hollywood,DTLA,Active
+4534,Ivar & Hollywood,DTLA,Active
+4536,Venice & Abbot Kinney,Westside,Active
+4537,Highland & Sunset,DTLA,Active
+4538,5th & Western,DTLA,Active
+4539,Cherokee & Hollywood,DTLA,Inactive
+4540,1st & Utah,DTLA,Active
+4541,Glen Alla Park,Westside,Inactive
+4542,Concert Park,Westside,Inactive
+4543,Toes Beach at Culver Blvd,Westside,Active
+4544,Dockweiler Beach at Imperial Hwy,Westside,Active
+4545,Vista Del Mar & Culver,Westside,Active
+4546,Expo/Bundy E Line Station,Westside,Active
+4547,Stanford & Washington,Westside,Active
+4548,Durango & Venice,Westside,Active
+4549,Barrington & National,Westside,Active
+4552,Culver & Centinela,Westside,Active
+4553,Venice & Beethoven,Westside,Active
+4554,Venice & Colonial,Westside,Active
+4555,Venice & Inglewood,Westside,Active
+4556,McLaughlin & Venice,Westside,Active
+4557,Venice & Sawtelle,Westside,Active
+4558,Bagley & Venice,Westside,Active
+4559,Palms & Kelton,Westside,Inactive
+4560,Sepulveda & Charnock,Westside,Inactive
+4561,Sepulveda & Palms,Westside,Active
+4562,Sepulveda & National,Westside,Active
+4563,Venice & Glendon,Westside,Active
+4564,Expo/Sepulveda E Line Station,Westside,Active
+4565,Alla & Maxella,Westside,Active
+4566,Venice & Hughes,Westside,Active
+4567,Venice & Motor,Westside,Active
+4568,Palms E Line Station,Westside,Active
+4569,Palms & Motor,Westside,Active
+4570,Sepulveda & Venice,Westside,Active
+4571,Rose & Overland,Westside,Active
+4572,National & Motor,Westside,Active
+4573,Westwood & National,Westside,Active
+4575,Lucerne & Sepulveda,Westside,Active
+4576,Motor & Regent,Westside,Active
+4577,Inglewood & Braddock,Westside,Active
+4578,Main & 8th,DTLA,Active
+4579,Alla & Glencoe,Westside,Active
+4580,Centinela & Lucile,Westside,Active
+4581,Playa Vista Library,Westside,Active
+4582,Westlawn & Beatrice,Westside,Inactive
+4583,McConnell & Runway,Westside,Active
+4584,Fountain & Vine,DTLA,Active
+4587,Wiltern,DTLA,Active
+4592,CicLAvia–Heart of LA presented by Metro,DTLA,Inactive
+4593,CicLAvia South LA - Crenshaw Hub,DTLA,Inactive
+4594,CicLAvia South LA - Expo Park Hub,DTLA,Inactive
+4595,Chandler & Colfax,North Hollywood,Active
+4596,Chandler & Laurel Canyon,North Hollywood,Active
+4597,Magnolia & Clybourn,North Hollywood,Active
+4598,North Hollywood Plaza,North Hollywood,Active
+4599,Chandler & Cahuenga,North Hollywood,Active
+4600,Lankershim & Califa,North Hollywood,Active
+4601,Lankershim & Hesby,North Hollywood,Active
+4602,Magnolia & Cartwright,North Hollywood,Inactive
+4603,Riverside & Cahuenga,North Hollywood,Active
+4604,Lankershim & Vineland,North Hollywood,Active
+4605,Mariota & Riverside,North Hollywood,Active
+4606,North Hollywood Station,North Hollywood,Active
+4613,Gateway Plaza,Westside,Active
+4614,Perloff Hall,Westside,Active
+4514,Purdue & Santa Monica,Westside,Active
+4623,CicLAvia South LA – Exposition Hub,DTLA,Inactive
+4624,CicLAvia South LA – Florence Hub,DTLA,Inactive
+4625,CicLAvia South LA – Exposition Hub,DTLA,Inactive
+4626,CicLAvia South LA – Florence Hub,DTLA,Inactive
+4627,Argyle & Hollywood,DTLA,Active
+4629,CicLavia West Hollywood Hub,DTLA,Inactive
+4631,CicLavia West Hollywood Hub,DTLA,Inactive
+4632,Maxella & Glencoe,Westside,Active
+4244,Expo Park/USC Station,DTLA,Inactive
+4628,7th & Westmoreland,DTLA,Active
+4633,CicLAvia - Echo Park Hub,DTLA,Inactive
+4634,CicLAvia - Mariachi Plaza Hub,DTLA,Inactive
+4638,CicLAvia South LA - Historic South-Central Hub,DTLA,Inactive
+4635,CicLAvia - Echo Park Hub,DTLA,Inactive
+4636,CicLAvia - Mariachi Plaza Hub,DTLA,Inactive
+4639,CicLAvia South LA - Watts Hub,DTLA,Inactive
+4643,Drake Stadium,Westside,Active
+4644,Weyburn Terrace,Westside,Active
+4645,University Village (Sawtelle Blvd),Westside,Active
+4646,CicLavia Mid City Hub,DTLA,Inactive
+4647,CicLavia Pico Union Hub,DTLA,Inactive
+4648,CicLAvia Mid City Hub,DTLA,Inactive
+4649,CicLavia Pico Union Hub,DTLA,Inactive
+4650,CicLAmini Watts,DTLA,Inactive
+4651,CicLAmini Watts,DTLA,Inactive
+4652,Arizona Ave & 16th St,Westside,Active
+4654,Culver City Pride Ride,Westside,Inactive
+4655,CicLAvia South LA - Westmont Hub,DTLA,Inactive
+4656,CicLAvia South LA - Westmont Hub,DTLA,Inactive
+4660,Venice & Walgrove,Westside,Active
+4661,CicLAvia South LA - Historic South Central,DTLA,Inactive
+4662,CicLAvia South LA - Leimert Park,DTLA,Inactive
+4663,CicLAvia South LA - Historic South Central,DTLA,Inactive
+4664,Koreatown Plaza,DTLA,Active
+4665,Gateway Plaza,Westside,Active
+4667,Ciclavia Melrose - Fairfax Hub,Westside,Inactive
+4668,Ciclavia Melrose - Fairfax Hub,Westside,Inactive
+4669,Broadway & 7th,DTLA,Inactive
+4670,CicLAvia Venice - National,Westside,Inactive
+4671,CicLAvia Venice - National,Westside,Inactive
+4672,7th & Broadway,DTLA,Active
+4675,CicLAvia South LA - Century Hub,DTLA,Inactive
+4676,CicLAvia South LA – Century Hub,DTLA,Inactive
+4678,CicLAvia South LA - Exposition Hub,DTLA,Inactive
+4680,Broadway & 8th,DTLA,Active
+4682,CicLAvia Meet the Hollywood's - West Hollywood Hub,N/A,Active
+4684,CicLAmini Lincoln Heights Ave 18 Hub,DTLA,Inactive
+4686,Chinatown Hub - cicLAvia Heart of LA 2024,DTLA,Inactive
+4687,Evergreen Hub - cicLAvia Heart of LA 2024,DTLA,Inactive
+4689,University Village (Sepulveda Blvd),Westside,Active
+4690,Vineland & Burbank,North Hollywood,Active
+4691,CicLAvia West Adams Meets University Park - West Adams Hub,Westside,Inactive
+4692,CicLAvia West Adams Meets University Park - West Adams Hub,Westside,Inactive

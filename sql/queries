@@ -1,0 +1,48 @@
+-- CREATE bike_trips table
+CREATE TABLE bike_trips (
+    trip_id SERIAL PRIMARY KEY,
+    duration INT,
+    start_time TIMESTAMP,
+    end_time TIMESTAMP,
+    start_station TEXT,
+    end_station TEXT,
+    bike_id TEXT,
+    trip_route_category TEXT,
+    passholder_type TEXT,
+    bike_type TEXT
+);
+
+-- COPY into bike_trips
+\COPY bike_trips(duration, start_time, end_time, start_station, end_station, bike_id, trip_route_category, passholder_type, bike_type)
+FROM 'C:/path/to/metro-trips-2024-q3.csv' WITH (FORMAT csv, HEADER true);
+
+-- CREATE stations table
+CREATE TABLE stations (
+    kiosk_id INT PRIMARY KEY,
+    kiosk_name TEXT,
+    go_live_date DATE,
+    region TEXT,
+    status TEXT
+);
+
+-- COPY into stations
+\COPY stations(kiosk_id, kiosk_name, go_live_date, region, status)
+FROM 'C:/path/to/metro-bike-share-stations.csv' WITH (FORMAT csv, HEADER true);
+
+-- Join trips with stations
+SELECT bt.*, s.region
+FROM bike_trips bt
+JOIN stations s ON bt.start_station = s.kiosk_name;
+
+-- Most popular start stations
+SELECT start_station, COUNT(*) AS trip_count
+FROM bike_trips
+GROUP BY start_station
+ORDER BY trip_count DESC
+LIMIT 5;
+
+-- Peak hour for trips
+SELECT EXTRACT(HOUR FROM start_time) AS hour, COUNT(*) AS trip_count
+FROM bike_trips
+GROUP BY hour
+ORDER BY trip_count DESC;
