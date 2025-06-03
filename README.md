@@ -99,7 +99,7 @@ The joined dataset (trip data with station regions) was exported from PostgreSQL
 
 ### Dashboard Overview
 
-![Dashboard](visuals/dashboard.png)
+![Dashboard](visuals/Dashboard.png)
 
 ### Region Heatmap
 
@@ -114,7 +114,7 @@ The joined dataset (trip data with station regions) was exported from PostgreSQL
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - **Total Trips:** 134,918  
 - **Total Ride Time:** 79,087 hours  
@@ -127,7 +127,7 @@ The joined dataset (trip data with station regions) was exported from PostgreSQL
 ---
 
 ##  Contact
-- GitHub: [github.com/ayberkaydemir](https://github.com/ayberkaydemir)  
-- LinkedIn: [linkedin.com/in/ayberkaydemir](https://linkedin.com/in/ayberkaydemir)
+- GitHub: [github.com/ayberkaydemir](https://github.com/Aydemirayberk)  
+- LinkedIn: [linkedin.com/in/ayberkaydemir](https://linkedin.com/in/ayberkaydemirr)
 
 ---
