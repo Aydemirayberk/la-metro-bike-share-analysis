@@ -128,6 +128,6 @@ The joined dataset (trip data with station regions) was exported from PostgreSQL
 
 ##  Contact
 - GitHub: [github.com/ayberkaydemir](https://github.com/Aydemirayberk)  
-- LinkedIn: [linkedin.com/in/ayberkaydemir](https://linkedin.com/in/ayberkaydemirr)
+- LinkedIn: [[linkedin.com/in/ayberkaydemir](linkedin.com/in/ayberkaydemirr)
 
 ---
