@@ -125,9 +125,3 @@ The joined dataset (trip data with station regions) was exported from PostgreSQL
 - **Busiest Station:** ID 4214 (7,439 rides)
 
 ---
-
-##  Contact
-- GitHub: [github.com/ayberkaydemir](github.com/Aydemirayberk)  
-- LinkedIn: [[linkedin.com/in/ayberkaydemir](linkedin.com/in/ayberkaydemirr)
-
----
